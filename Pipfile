@@ -9,6 +9,7 @@ ipykernel = "*"
 matplotlib = "*"
 sklearn = "*"
 flask = "*"
+seaborn = "*"
 
 [dev-packages]
 
